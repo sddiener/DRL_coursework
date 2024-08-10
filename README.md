@@ -1,1 +1,1 @@
-# DRL_coursework
+# Deep Reinforcement Learning with OpenAI Gym
